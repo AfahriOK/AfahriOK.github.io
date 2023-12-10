@@ -23,6 +23,12 @@ I chose to enhance my weight tracker mobile application across these categories.
 10. Added JavaDoc comments to functions.
 11. Removed unneccessary comments and variables.
 
+This artifact demonstrates an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I used many different techniques in this project to achieve the overall goal. I had to design the database, the screen layouts, and the logic to combine everything and keep it secure while allowing a beginner user to utilize it easily.  
+
+The enhancements to my database demonstrated an ability to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. I decided to encrypt the passwords in case of a breach so that the users passwords would be hard to crack. Each password is generated with a random salt so that all the passwords can not be cracked using a rainbow table. I also added input validation to the sign up process to prevent SQL injection attacks on the database.
+
+I demonstrated an ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. I added code comments at the start of each file to document what each file should do. I also added JavaDoc comments to the functions so another programmer can easily modify the code.
+
 ## Algorithms and Data Structures: Artifact 2 - Testing Enhancement
 ![Coverage test](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Testing.png?raw=true)
 I chose to enhance my final project from course CS-320: Software Test Automation & QA. This project showcases my ability to design and test my programs using efficient techniques such as boundary analysis. I built this project in Eclipse using the Java programming language and Junit5 for testing. The goal of this project was to design and test 3 classes and their associated service class for an appointment program given a set of requirements. Follow the links below to download or view the files for this project.
@@ -43,3 +49,9 @@ The skills for this artifact demonstrate an ability to design and evaluate compu
 I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. Testing is a very important part of creating error free code. I used boundary analysis to identify the edge cases of the requirements and designed my tests around them to ensure functionality. I then used Junit5 to test my code coverage which came out to 100% for my object and service class files.
 
 I also show an ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. I added a comment header box to my files to display the program requirements, purpose, test coverage, and most recent date that I updated the file. I also added JavaDoc comments to the functions and cleaned up a lot of redundant code using the @BeforeEach tag so that a new programmer can easily understand it and make changes as needed.
+
+## OpenGL 3D Scene
+![3DScene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/blob/main/3DScene.png) ![Original Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/blob/main/OriginalImage.jpg)
+This artifact originated from course CS-330: Computer Graphics And Visualization. This project was built using Visual Studio and was written using the C++ programming language and the OpenGL library. The scene was built from scratch using many simple shapes. The program allows you to view the scence from any angle using the camera and it is composed of 2 shaders to allow for customization of the color textures and the lighting. You can view the files or download this project using the link below.
+
+- [3D Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/tree/main)
