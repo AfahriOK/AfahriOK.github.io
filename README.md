@@ -25,7 +25,10 @@ I chose to enhance my weight tracker mobile application across these categories.
 
 ## Algorithms and Data Structures: Artifact 2 - Testing Enhancement
 ![Coverage test](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Testing.png?raw=true)
-I chose to enhance my final project from course CS-320: Software Test Automation & QA. This project showcases my ability to design and test my programs using efficient techniques such as boundary analysis. I built this project in Eclipse using the Java programming language and Junit5 for testing. The goal of this project was to design and test 3 classes and their associated service class for an appointment program given a set of requirements.
+I chose to enhance my final project from course CS-320: Software Test Automation & QA. This project showcases my ability to design and test my programs using efficient techniques such as boundary analysis. I built this project in Eclipse using the Java programming language and Junit5 for testing. The goal of this project was to design and test 3 classes and their associated service class for an appointment program given a set of requirements. Follow the links below to download or view the files for this project.
+
+- [Enhanced Version](https://github.com/AfahriOK/Software-Test-Automation-And-QA/tree/main/Enhanced)
+- [Original Version](https://github.com/AfahriOK/Software-Test-Automation-And-QA)
 
 <ins>List of Enhancements</ins>
 1. Changed data structure to a HashMap.
