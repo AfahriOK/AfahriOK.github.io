@@ -1,17 +1,16 @@
 title: Afahri Kerr
 email: AfahriAKerr91@Gmail.com
 logo: /assets/img/FaceShot.jpg
-description:  |
-  T. rex, T.rex
-  How I love thee
+description: |
+Computer Science Student
+Southern New Hampshire University
+Bachelor of Science Computer Science
+Graduation - December 2023
+GPA - 4.0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AfahriKerr
 github_username:  AfahriOK
 show_downloads: false
-   |
-  T. rex, T.rex
-  How I love thee
-
 # Build settings
 theme: jekyll-theme-minimal
