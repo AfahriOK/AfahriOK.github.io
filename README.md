@@ -20,7 +20,7 @@ I chose to enhance my weight tracker mobile application across these categories.
 10. Added JavaDoc comments to functions.
 11. Removed unneccessary comments and variables.
 
-## Algorithms and Data Structures: Artifact 2 - Testing
+## Algorithms and Data Structures: Artifact 2 - Testing Enhancement
 ![Coverage test](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Testing.png?raw=true)
 I chose to enhance my final project from course CS-320: Software Test Automation & QA. This project showcases my ability to design and test my programs using efficient techniques such as boundary analysis. I built this project in Eclipse using the Java programming language and Junit5 for testing. The goal of this project was to design and test 3 classes and their associated service class for an appointment program given a set of requirements.
 
