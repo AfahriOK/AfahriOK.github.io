@@ -7,7 +7,7 @@ It takes a great deal of planning and focus to make a project successful. You ha
 I chose to select my weight tracker mobile application to enhance across these categories. The artifact originated from course CS-330: Mobile Architect & Programming. It was built in Android Studio using the Java and XML programming languages. The goal of this project was to design and build a mobile application that will allow the user to store their daily weights in a database along with a weight goal. The user should be able to see each of their entries and also be able to opt in to a SMS notification upon achivement of their goal.
 
 <ins>List of Enhancements</ins>
-1.e
-2.a
-3.r
+1. e
+2. a
+3. r
 
