@@ -5,7 +5,7 @@ It takes a great deal of planning and focus to make a project successful. You ha
 
 ## Software Design and engineering / Databases: Artifact 1 - Weight Tracker App Enhancement
 ![Initial application screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Weight%20Tracker%20App.png?raw=true)
-I chose to select my weight tracker mobile application to enhance across these categories. The artifact originated from course CS-330: Mobile Architect & Programming. It was built in Android Studio using the Java and XML programming languages. The goal of this project was to design and build a mobile application that will allow the user to store their daily weights in a database along with a weight goal. The user should be able to see each of their entries and also be able to opt in to a SMS notification upon achivement of their goal.
+I chose to enhance my weight tracker mobile application across these categories. The artifact originated from course CS-330: Mobile Architect & Programming. This project showcases a wide range of abilites and was built in Android Studio using the Java and XML programming languages. The goal of this project was to design and build a mobile application that will allow the user to store their daily weights in a database along with a weight goal. The user should then be able to see each of their entries and be given an option to receive SMS notifications upon achivement of their goal.
 
 <ins>List of Enhancements</ins>
 1. Designed and implemented an account creation screen.
@@ -16,7 +16,17 @@ I chose to select my weight tracker mobile application to enhance across these c
 6. Implemented a button to clear entire list on the weight screen.
 7. Improved If/Else logic of the functions.
 8. Fixed font visibility and other warnings.
-9. Improved variable names and code spacing to promote readability.
+9. Improved variable names and code spacing.
 10. Added JavaDoc comments to functions.
 11. Removed unneccessary comments and variables.
 
+## Algorithms and Data Structures: Artifact 2 - Testing
+![Coverage test](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Testing.png?raw=true)
+I chose to enhance my final project from course CS-320: Software Test Automation & QA. This project showcases my ability to design and test my programs using efficient techniques such as boundary analysis. I built this project in Eclipse using the Java programming language and Junit5 for testing. The goal of this project was to design and test 3 classes and their associated service class for an appointment program given a set of requirements.
+
+<ins>List of Enhancements</ins>
+1. Changed data structure to a HashMap.
+2. Added a @BeforeEach initialization method in my testing files.
+3. Added JavaDoc comments to functions.
+4. Improved variable names and code spacing.
+5. Removed redundant code and unneccesary comments.
