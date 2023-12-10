@@ -1,7 +1,7 @@
 title: Afahri Kerr
 email: AfahriAKerr91@Gmail.com
 logo: /assets/img/FaceShot.jpg
-description: >- # this means to ignore newlines until "baseurl:"
+description: |- # this means to ignore newlines until "baseurl:"
   Computer Science Student
   Southern New Hampshire University
   Bachelor of Science Computer Science
