@@ -42,7 +42,7 @@ I chose to enhance my final project from course CS-320: Software Test Automation
 3. Added JavaDoc comments to functions.
 4. Added a header comment box to show the overall purpose and requirements of each file.
 5. Improved variable names and code spacing.
-6. Removed redundant code and unneccesary comments.
+6. Removed redundant code and unneccessary comments.
 
 The skills for this artifact demonstrate an ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. My initial program was built using an array which caused the performance to be O(n) where n is the number of objects in the array. I changed the array to a HashMap using the unique ID of the objects as a key which improved the performance to O(1).
 
