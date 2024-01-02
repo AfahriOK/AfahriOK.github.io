@@ -51,7 +51,7 @@ I demonstrated an ability to use well-founded and innovative techniques, skills,
 I also show an ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. I added a comment header box to my files to display the program requirements, purpose, test coverage, and most recent date that I updated the file. I also added JavaDoc comments to the functions and cleaned up a lot of redundant code using the @BeforeEach tag so that a new programmer can easily understand it and make changes as needed.
 
 ## OpenGL 3D Scene
-![Original Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/blob/main/OriginalImage.jpg?raw=true)![3DScene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/blob/main/3DScene.png?raw=true)
+![Original Scene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/OriginalImage.jpg?raw=true)![3DScene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/3DScene.png?raw=true)
 This artifact originated from course CS-330: Computer Graphics and Visualization. This project was built using Visual Studio and was written using the C++ programming language and the OpenGL library. The scene was built from the ground up using many simple shapes. The program allows you to view the scene from any angle using the camera and it is composed of 2 shaders to allow for customization of the color textures and the lighting. You can view the files or download this project using the link below.
 
 - [3D Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/tree/main)
