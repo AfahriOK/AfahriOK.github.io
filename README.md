@@ -57,7 +57,7 @@ This artifact originated from my Computer Graphics and Visualization course. It 
 - [3D Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/tree/main)
 
 ## Travlr Web Application
-![Travlr Home Screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/travlr.png?raw=true)![Travlr Admin Screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Travlr_SPA_Screen.png?raw=true)
+![Travlr Home Screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/travlr.png?raw=true)
 This artifact originated from my Full Stack Development course. This web application was built using the MEAN (MongoDB, Express, Angular, and Node.js) stack so it mostly utilized Javascript, but also included Typescript, HTML5, and CSS in Visual Studio Code. It features a user facing side to allow users to see the different trips and descriptions. It also has an admin side built using Angular to allow admins to add trips to the site and it is also protected with user authentication to ensure a user is authorized to make changes. These changes are easily updated due to the built in Handlebars templates. You can view the files or download this project using the link below.
 
 - [Travlr Web Application](https://github.com/AfahriOK/Full-Stack-Development)
