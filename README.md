@@ -52,6 +52,12 @@ I also show an ability to design, develop, and deliver professional-quality oral
 
 ## OpenGL 3D Scene
 ![Original Scene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/OriginalImage.jpg?raw=true)![3DScene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/3DScene.png?raw=true)
-This artifact originated from course CS-330: Computer Graphics and Visualization. This project was built using Visual Studio and was written using the C++ programming language and the OpenGL library. The scene was built from the ground up using many simple shapes. The program allows you to view the scene from any angle using the camera and it is composed of 2 shaders to allow for customization of the color textures and the lighting. You can view the files or download this project using the link below.
+This artifact originated from my Computer Graphics and Visualization course. It was built using Visual Studio and was written using the C++ programming language and the OpenGL library. The scene was built from the ground up using many simple shapes. The program allows you to view the scene from any angle using the camera and it is composed of 2 shaders to allow for customization of the color textures and the lighting. You can view the files or download this project using the link below.
 
 - [3D Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/tree/main)
+
+## Travlr Web Application
+![Travlr Home Screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Travlr.png?raw=true)![Travlr Admin Screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Travlr.png?raw=true)
+This artifact originated from my full stack development course. This web application was built using the MEAN (MongoDB, Express, Angular, and Node.js) stack so it mostly utilized Javascript, but also included Typescript, HTML5, and CSS in Visual Studio Code. It features a user facing side to allow users to see the different trips and descriptions. It also has an admin side built using Angular to allow admins to add trips to the site and it is also protected with user authentication to ensure a user is authorized to make changes. You can view the files or download this project using the linke below.
+
+-[Travlr Web Application](https://github.com/AfahriOK/Full-Stack-Development)
