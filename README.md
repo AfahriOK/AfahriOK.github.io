@@ -51,7 +51,9 @@ I demonstrated an ability to use well-founded and innovative techniques, skills,
 I also show an ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. I added a comment header box to my files to display the program requirements, purpose, test coverage, and most recent date that I updated the file. I also added JavaDoc comments to the functions and cleaned up a lot of redundant code using the @BeforeEach tag so that a new programmer can easily understand it and make changes as needed.
 
 ## Grazioso Salvare Animal Tracker
+![Shelter Lookup](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/Grazioso.png?raw=true)
 This artifact originated from my Client/Server Development course. It was built using Jupyter Notebook and was written using Python, Pandas, Plotly, and Dash. It allows a user to visualize location and other data of animals based on a MongoDB database. You can download the files for this project using the link below.
+- [Grazioso Salvare Animal Tracker](https://github.com/AfahriOK/Client-Server-Development)
 
 ## OpenGL 3D Scene
 ![Original Scene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/OriginalImage.jpg?raw=true) ![3DScene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/3DScene.png?raw=true)
