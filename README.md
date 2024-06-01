@@ -11,18 +11,12 @@ I chose to enhance my weight tracker mobile application across these categories.
 - [Original Version](https://github.com/AfahriOK/Mobile-Architecture-and-Programming/tree/main)
 
 <ins>List of Enhancements</ins>
-1. Designed and implemented an account creation screen.
-2. Added input validation to the username and password fields.
-3. Merged the User and Goal tables in the database.
-4. Designed and implemented an Encryptor class to encrypt user passwords.
-5. Ensured that the database and cursor were closed in each function.
-6. Implemented a button to clear the complete list on the weight screen.
-7. Improved If/Else logic of the functions.
-8. Fixed font visibility and other warnings.
-9. Improved variable names and code spacing.
-10. Added JavaDoc comments to functions.
-11. Removed unnecessary comments and variables.
-
+1. Designed and implemented an account creation screen to support multiple users.
+2. Improved input validation to the username and password fields while utilizing the Encryptor class and ensured all database cursors were closed after use to improve security.
+3. Merged the User and Goal tables in the database and changed the logic of the functions to improve efficiency.
+4. Implemented a button to clear the complete list on the weight screen to improve usability.
+5. Improved variable names and code spacing, added JavaDoc comments to functions, fixed font visibility and other warnings, and removed unnecessary comments and variables to improve readability.
+   
 This artifact demonstrates an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I used many different techniques in this project to achieve the overall goal. I had to design the database, the screen layouts, and the logic to combine everything and keep it secure while allowing a beginner user to utilize it easily. I decided to make a seperate account creation screen because I saw how easy it would be for a user to enter the incorrect information.  
 
 The enhancements to my database demonstrated an ability to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. I decided to encrypt the passwords in case of a breach so that the users' passwords wouldn't be easy to steal. Each password is generated with a random salt so that all the passwords cannot be cracked using a rainbow table. I also added input validation to the sign-up process to prevent SQL injection attacks on the database.
@@ -37,13 +31,11 @@ I chose to enhance my final project from course CS-320: Software Test Automation
 - [Original Version](https://github.com/AfahriOK/Software-Test-Automation-And-QA)
 
 <ins>List of Enhancements</ins>
-1. Changed data structure to a HashMap.
-2. Added a @BeforeEach initialization method in my testing files.
-3. Added JavaDoc comments to functions.
+1. Changed internal data structure to a HashMap to improve code efficiency.
+2. Added a @BeforeEach initialization method in my testing files to simplify and remove redundant code.
+3. Improved variable names, code spacing, removed redundant code/comments, and added JavaDoc comments to functions to improve readability.
 4. Added a header comment box to show the overall purpose and requirements of each file.
-5. Improved variable names and code spacing.
-6. Removed redundant code and unnecessary comments.
-
+   
 The skills for this artifact demonstrate an ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. My initial program was built using an array which caused the performance to be O(n) where n is the number of objects in the array. I changed the array to a HashMap using the unique ID of the objects as a key which improved the performance to O(1).
 
 I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. Testing is an important part of creating error free code. I used boundary analysis to identify the edge cases of the requirements and designed my tests around them to ensure functionality. I then used Junit5 to test my code coverage which came out to 100% for my object and service class files.
@@ -57,12 +49,12 @@ This artifact originated from my Client/Server Development course. It was built 
 
 ## OpenGL 3D Scene
 ![Original Scene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/OriginalImage.jpg?raw=true) ![3DScene](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/3DScene.png?raw=true)
-This artifact originated from my Computer Graphics and Visualization course. It was built using Visual Studio and was written using the C++ programming language and the OpenGL library. The scene was built from the ground up using many simple shapes. The program allows you to view the scene from any angle using the camera and it is composed of 2 shaders to allow for customization of the color textures and the lighting. You can view the files or download this project using the link below.
+This artifact originated from my Computer Graphics and Visualization course. It was built using Visual Studio and was written using the C++ programming language and the OpenGL library. The scene was built from the ground up using many simple shapes. The program allows you to view the scene from any angle using the built-in camera functionality. You can view the files or download this project using the link below.
 
 - [3D Scene](https://github.com/AfahriOK/Computer-Graphics-And-Visualization/tree/main)
 
 ## Travlr Web Application
 ![Travlr Home Screen](https://github.com/AfahriOK/AfahriOK.github.io/blob/main/assets/img/travlr.png?raw=true)
-This artifact originated from my Full Stack Development course. This web application was built using the MEAN (MongoDB, Express, Angular, and Node.js) stack so it mostly utilized Javascript, but also included Typescript, HTML5, and CSS in Visual Studio Code. It features a user facing side to allow users to see the different trips and descriptions. It also has an admin side built using Angular to allow admins to add trips to the site and it is also protected with user authentication to ensure a user is authorized to make changes. These changes are easily updated due to the built in Handlebars templates. You can view the files or download this project using the link below.
+This artifact originated from my Full Stack Development course. This web application was built using the MEAN (MongoDB, Express, Angular, and Node.js) stack so it mostly utilized Javascript, but also included Typescript, HTML5, and CSS in Visual Studio Code. It features a user facing side to allow users to see different trip listings and descriptions. It also has an admin SPA built using Angular to allow admins to add trip listings to the site which is protected with user authentication to ensure a user is authorized to make changes. You can view the files or download this project using the link below.
 
 - [Travlr Web Application](https://github.com/AfahriOK/Full-Stack-Development)
